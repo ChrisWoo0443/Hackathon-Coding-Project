@@ -1,0 +1,4 @@
+gas 400
+water 200
+electricity 500
+food 300
