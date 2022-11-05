@@ -1,4 +1,3 @@
 # Hackathon-Coding-Project
 
-Tracks water usage from user using python
-outputs information through c++
+Tracks water usage from user with c++ program and does calculations and returns information using python
